@@ -38,7 +38,7 @@ A *DB engine* is the specific relational database software that runs on your D
 - Choose a database creation method.
 - There are two creation methods - ***Standard create*** (You set all of the configuration options, including ones for availability, security, backups, and maintenance.)
 
-                                                           - ***Easy Create*** (Use recommended best-practice configurations. Some configuration options can be changed after the database is created.)
+ - ***Easy Create*** (Use recommended best-practice configurations. Some configuration options can be changed after the database is created.)
 
 
 - Choose the engine type that you require.
